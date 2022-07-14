@@ -6,6 +6,8 @@ This is part of the coding challenge in LAP 3 at the futureproof bootcamp. This 
 
 ### 1. Install the dependencies
 
+First, nagivate to the `github-tracker` folder. Then install the dependencies using the following command:
+
 ```
 $ npm i
 ```
@@ -13,6 +15,8 @@ $ npm i
 At a minimum, [Node 17.0.1](https://nodejs.org/en/) must be installed.
 
 ### 2. Running the App
+
+To run the app, use the following command:
 
 ```
 $ npm start
